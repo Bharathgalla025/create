@@ -39,6 +39,7 @@
 .backgoundimage{
   background-image: url('../src/images/school_design.jpg');
   height: 100vh;
+  background-size: cover;
 }
 .navbar{
   background-color: gray;

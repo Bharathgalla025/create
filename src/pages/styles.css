@@ -3,6 +3,7 @@
     opacity: 0.8;
     color: white;
     padding: 20px;
+    height:550px
 }
 p{
     margin: 30px;
@@ -18,7 +19,22 @@ p{
     margin-top:30px
 }
 .adduserform{
-background-color: coral;
-margin: 10%;
 padding: -60px 30px 10px 30px;
+
+    text-align: center;
+    background: skyblue;
+    opacity: 0.8;
+}
+.textcolor{
+    color: white;
+}
+label{
+    color: white;
+}
+img{
+    height: 100px;
+}
+.iamgesty{
+    height: 75vh;
+    width: 100%;
 }

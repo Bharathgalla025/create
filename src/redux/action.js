@@ -28,7 +28,7 @@ const updateStudent=()=>({
 
 export const loadStudents=()=>{
     return function(dispatch){
-        axios.get('https://jsonplaceholder.typicode.com/users').then((res)=>{
+        axios.get('http://localhost:5000/user').then((res)=>{
             dispatch(getStudents(res.data));
         }).catch((error)=>console.log(error))
     }
