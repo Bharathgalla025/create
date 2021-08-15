@@ -59,15 +59,15 @@ const Allstudents=()=> {
             <TableRow key={row.id}>
             
               <TableCell align="center">{row.name}</TableCell>
-              <TableCell align="center">{row.dob}</TableCell>
-              <TableCell align="center">{row.gender}</TableCell>
-              <TableCell align="center">{row.standard}</TableCell>
+              <TableCell align="center">{row.username}</TableCell>
+              <TableCell align="center">{row.email}</TableCell>
+               {/*<TableCell align="center">{row.standard}</TableCell>
               <TableCell align="center">{row.bloodgroup}</TableCell>
               <TableCell align="center">{row.address}</TableCell>
               <TableCell align="center">{row.fathername}</TableCell>
               <TableCell align="center">{row.mothername}</TableCell>
               <TableCell align="center">{row.contact}</TableCell>
-              <TableCell align="center">{row.emergencynumber}</TableCell>
+              <TableCell align="center">{row.emergencynumber}</TableCell> */}
               <TableCell align="center"><button onClick={()=>handleDelete(row.id)}>DELETE</button></TableCell>
               <TableCell align="center"><button onClick={()=>history.push('/edituser/'+row.id)}>EDIT</button></TableCell>
             </TableRow>
