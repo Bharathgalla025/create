@@ -1,0 +1,24 @@
+.styleforaboutpage{
+    background-color: gray;
+    opacity: 0.8;
+    color: white;
+    padding: 20px;
+}
+p{
+    margin: 30px;
+    border: 2px solid black;
+    padding-left: 30px;
+    border-radius: 5px;
+}
+#h1{
+    top: 50%;
+   margin-left: 40%;
+}
+.tablestyles{
+    margin-top:30px
+}
+.adduserform{
+background-color: coral;
+margin: 10%;
+padding: -60px 30px 10px 30px;
+}

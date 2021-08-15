@@ -36,3 +36,23 @@
     transform: rotate(360deg);
   }
 }
+.backgoundimage{
+  background-image: url('../src/images/school_design.jpg');
+  height: 100vh;
+}
+.navbar{
+  background-color: gray;
+  opacity: 0.5;
+}
+.floats{
+  float:'right';
+}
+ul{
+  text-decoration: none;
+  color: black;
+}
+ul li{
+  list-style: none;
+  font-weight: bold;
+  color: black;
+}

@@ -1,0 +1,43 @@
+{
+  "user": [
+    {
+      "name": "Bharath1234",
+      "dob": "22-06-1994",
+      "gender": "male",
+      "standard": "10th",
+      "bloodgroup": "o+ve",
+      "address": "piler",
+      "fathername": "srinivasulu",
+      "mothername": "jayalakshmi",
+      "contact": "87437438748374",
+      "emergencynumber": "6454654654",
+      "id": 1
+    },
+    {
+      "name": "wewew",
+      "dob": "we22",
+      "gender": "wewe",
+      "standard": "dfdfd",
+      "bloodgroup": "cvcvc",
+      "address": "ddfdf",
+      "fathername": "jhghgh",
+      "mothername": "iuiu",
+      "contact": "lklklk",
+      "emergencynumber": "uiui",
+      "id": 3
+    },
+    {
+      "name": "bbbbbgggggg",
+      "dob": "ppppp",
+      "gender": "oooo",
+      "standard": "uuuu",
+      "bloodgroup": "ttttt",
+      "address": "rrrrr",
+      "fathername": "wwwww",
+      "mothername": "qqqqqq",
+      "contact": "34232323",
+      "emergencynumber": "3343",
+      "id": 5
+    }
+  ]
+}

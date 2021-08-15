@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar{
+  background-color: black;
+  opacity: 0.5;
+  padding: 25px;
+}
+
+ul{
+  display: flex;
+  float:right;
+  margin-top: -15px;
+  text-decoration: none;
+}
+ul li{
+  padding-left: 10px;
+  text-decoration: none;
+ 
+}
